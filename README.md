@@ -39,3 +39,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DaniPoletto&icon=7&color=5)](https://visitcount.itsvg.in)
 
+![Snake animation](https://github.com/DaniPoletto/DaniPoletto/blob/output/github-contribution-grid-snake.svg)
+
