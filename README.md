@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu GitHub 👋
 
 # 💫 Sobre mim:
 🔭 Trabalho com desenvolvimento Web com PHP, JQuery e MySql<br>
