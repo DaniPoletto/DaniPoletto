@@ -1,12 +1,8 @@
 ### Bem vindo ao meu GitHub 👋
 
-# 💫 Sobre mim:
+# Sobre mim:
 🔭 Trabalho com desenvolvimento Web com PHP, JQuery e MySql<br>
 🌱 Estudando Symfony, Doctrine, Laravel e Testes<br>
-
-
-## 🌐 Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DaniPoletto) 
 
 # 💻 Conhecimento:
 
@@ -32,12 +28,6 @@
 # 📊 Estatísticas:
 ![](https://github-readme-stats.vercel.app/api?username=DaniPoletto&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniPoletto&theme=jolly&hide_border=false)<br/>
-
----
-![](https://github-profile-trophy.vercel.app/?username=DaniPoletto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=DaniPoletto&icon=7&color=5)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://github.com/DaniPoletto/DaniPoletto/blob/output/github-contribution-grid-snake.svg)
 
