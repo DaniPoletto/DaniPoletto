@@ -26,8 +26,11 @@
 
 
 # 📊 Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=DaniPoletto&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DaniPoletto&theme=jolly&hide_border=false)<br/>
+<div>
+<a href="https://github.com/DaniPoletto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniPoletto&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPoletto&theme=jolly&hide_border=false"/>
+</div>
 
 ![Snake animation](https://github.com/DaniPoletto/DaniPoletto/blob/output/github-contribution-grid-snake.svg)
 
