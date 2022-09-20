@@ -37,3 +37,5 @@
 
 ![Snake animation](https://github.com/DaniPoletto/DaniPoletto/blob/output/github-contribution-grid-snake.svg)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Valmar31&icon=4&color=12)](https://visitcount.itsvg.in)
