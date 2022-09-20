@@ -1,4 +1,4 @@
-![Bem vindo](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Bem%20vindo(a)%20ao%20meu%20GitHub&height=150&fontSize=60&desc=👋&descAlignY=75&descAlign=60)
+![Bem vindo](https://capsule-render.vercel.app/api?type=transparent&fontColor=a25bf5&text=Bem%20vindo(a)%20ao%20meu%20GitHub&height=150&fontSize=40&desc=👋&descAlignY=75&descAlign=60)
 
 
 # Sobre mim:
