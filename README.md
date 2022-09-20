@@ -1,8 +1,10 @@
-### Bem vindo ao meu GitHub 👋
+![Bem vindo](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Bem%20vindo(a)%20ao%20meu%20GitHub&height=150&fontSize=60&desc=👋&descAlignY=75&descAlign=60)
+
 
 # Sobre mim:
 🔭 Trabalho com desenvolvimento Web com PHP, JQuery e MySql<br>
 🌱 Estudando Symfony, Doctrine, Laravel e Testes<br>
+
 
 # 💻 Conhecimento:
 
@@ -24,12 +26,14 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
 
 
+
 # 📊 Estatísticas:
 <div>
 <a href="https://github.com/DaniPoletto">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaniPoletto&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPoletto&theme=jolly&hide_border=false"/>
 </div>
+
 
 ![Snake animation](https://github.com/DaniPoletto/DaniPoletto/blob/output/github-contribution-grid-snake.svg)
 
