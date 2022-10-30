@@ -3,7 +3,7 @@
 
 # Sobre mim:
 🔭 Trabalho com desenvolvimento Web com PHP, JQuery e MySql<br>
-🌱 Estudando Symfony, Doctrine, Laravel e Testes<br>
+🌱 Estudando Laravel, NodeJs, Solid, Clean code e Testes<br>
 
 
 # 💻 Conhecimento:
