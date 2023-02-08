@@ -1,12 +1,12 @@
-![Bem vindo](https://capsule-render.vercel.app/api?type=transparent&fontColor=a25bf5&text=Bem%20vindo(a)%20ao%20meu%20GitHub&height=150&fontSize=40&desc=👋&descAlignY=75&descAlign=60)
+![Bem vindo](https://capsule-render.vercel.app/api?type=transparent&fontColor=a25bf5&text=Welcome%20to%20my%20GitHub&height=150&fontSize=40&desc=👋&descAlignY=75&descAlign=60)
 
 
-# Sobre mim:
-🔭 Trabalho com desenvolvimento Web com PHP, JQuery e MySql<br>
-🌱 Estudando Laravel, NodeJs, Solid, Clean code e Testes<br>
+# About me:
+🔭 I work as a Back-end Developer with PHP, JQuery and MySql<br>
+🌱 I'm studying Laravel Framework, Node.js, solid principles, best practices, clean code and Tests<br>
 
 
-# 💻 Conhecimento:
+# 💻 Skills:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,7 +27,7 @@
 
 
 
-# 📊 Estatísticas:
+# 📊 Statistics:
 <div>
 <a href="https://github.com/DaniPoletto">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaniPoletto&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>
