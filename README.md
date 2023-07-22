@@ -2,8 +2,8 @@
 
 
 # About me:
-🔭 I work as a Back-end Developer with PHP, JQuery and MySql<br>
-🌱 I'm studying Laravel Framework, Node.js, solid principles, best practices, clean code and Tests<br>
+🔭 I work as a Back-end Developer with PHP/Symfony, Javascript JQuery and MySql<br>
+🌱 I'm studying Laravel and Symfony Framework, solid principles, best practices, clean code and Tests<br>
 
 
 # 💻 Skills:
@@ -31,7 +31,7 @@
 <div>
 <a href="https://github.com/DaniPoletto">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaniPoletto&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPoletto&theme=jolly&hide_border=false"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPoletto&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
 
 
