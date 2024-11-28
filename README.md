@@ -2,8 +2,8 @@
 
 
 # About me:
-🔭 I work as a Back-end Developer with PHP/Symfony, Javascript JQuery and MySql<br>
-🌱 I'm studying Laravel and Symfony Framework, solid principles, best practices, clean code and Tests<br>
+🔭 I work as a Back-end Developer with PHP/Laravel/Symfony, Javascript JQuery and MySql<br>
+🌱 I'm always studying Laravel and Symfony Framework, solid principles, best practices, clean code and Tests<br>
 
 
 # 💻 Skills:
